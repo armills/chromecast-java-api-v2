@@ -1,14 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>su.litvak.chromecast</groupId>
-    <artifactId>api-v2</artifactId>
-    <version>0.10.4-SNAPSHOT</version>
+    <groupId>info.armills.chromecast-java-api-v2</groupId>
+    <artifactId>api-v2-raw-request</artifactId>
+    <version>0.10.4-raw-request-1</version>
     <packaging>jar</packaging>
 
     <name>ChromeCast Java API v2</name>
     <description>Java implementation of ChromeCast V2 protocol client</description>
-    <url>https://github.com/vitalidze/chromecast-java-api-v2</url>
+    <url>https://github.com/armills/chromecast-java-api-v2/tree/raw-request-fork</url>
 
     <licenses>
         <license>
@@ -19,9 +19,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/vitalidze/chromecast-java-api-v2</url>
-        <connection>scm:git:https://github.com/vitalidze/chromecast-java-api-v2.git</connection>
-        <tag>HEAD</tag>
+        <url>https://github.com/armills/chromecast-java-api-v2</url>
+        <connection>scm:git:https://github.com/armills/chromecast-java-api-v2.git</connection>
+        <tag>raw-request-fork</tag>
     </scm>
 
     <properties>
